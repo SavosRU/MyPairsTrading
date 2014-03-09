@@ -11,6 +11,9 @@
 	    <!-- Bootstrap -->
     	<link href="css/bootstrap.min.css" rel="stylesheet">
 
+		<!-- My CSS -->
+    	<link href="css/my.css" rel="stylesheet">
+    	
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -21,4 +24,6 @@
     </head>
 
 <body>
-<div class="container">
+<div class="container small">
+<?php /*<h3>My PairsTrading</h3>*/ ?>
+<br />
